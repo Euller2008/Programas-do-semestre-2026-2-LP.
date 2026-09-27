@@ -1,3 +1,5 @@
+package br.ufpb.dcx.euller.primeirosprogramas;
+
 import javax.swing.*;
 
 public class CidadeNacimento {

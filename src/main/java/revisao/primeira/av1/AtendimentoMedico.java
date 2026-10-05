@@ -13,19 +13,19 @@ public class AtendimentoMedico {
     public String getcodigoAtendimento(){
         return this.codigoAtendimento;
     }
-    public String setcodigoAtendimento( String codigoAtendimento){
+    public void setcodigoAtendimento( String codigoAtendimento){
         this.codigoAtendimento = codigoAtendimento;
     }
     public String getdiaAtendimento(){
         return this.diaAtendimento;
     }
-    public String setdiaAtendimento(String diaAtendimento){
+    public void setdiaAtendimento(String diaAtendimento){
         this.diaAtendimento = diaAtendimento;
     }
     public String getcategoriaAtendimento(){
         return this.categoriaAtendimento;
     }
-    public String setcategoriaAtendimento( String categoriaAtendimento){
+    public void setcategoriaAtendimento( String categoriaAtendimento){
         this.categoriaAtendimento = categoriaAtendimento;
     }
     public String toString() {
